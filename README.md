@@ -44,8 +44,5 @@ To run tests:
 - Right-click `app/src/test` and select "Run 'Tests in 'com.example...'"
 - Right-click `app/src/androidTest` and select "Run 'Tests in 'com.example...'"
 
-## Screenshots Section
-(Add screenshots here)
 
-## APK Section
-(Link to APK here)
+
